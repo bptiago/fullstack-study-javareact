@@ -1,10 +1,12 @@
 # study
 Study session for Full-Stack development using Java Spring Boot and React.
 
-Tools used
+Tools used:
 
-XAMPP: to setup backend, via Apache, and database, via MySQL
-Postman: to test HTTP requests and API calls
-JpaRepository: for database management (create, read etc)
-MaterialUI: React library for UI
-Node.js: package management
+<ul>
+  <li>XAMPP: to setup backend, via Apache, and database, via MySQL</li>
+  <li>Postman: to test HTTP requests and API calls</li>
+  <li>JpaRepository: for database management (create, read etc)</li>
+  <li>MaterialUI: React library for UI</li>
+  <li>Node.js: package management</li>
+</ul>
