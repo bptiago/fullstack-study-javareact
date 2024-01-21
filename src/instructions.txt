@@ -1,0 +1,6 @@
+Steps to run:
+
+1) Dowload node dependencies from package.json inside "studyfrontend" directory (use "npm i" in terminal)
+2) Initialize XAMPP Apache and MySQL (port 3308)
+3) Load Java and Spring dependencies and run StudyApplication.java in IntelliJ
+4) Open "studyfrontend" on VsCode and run "npm run start" on terminal
